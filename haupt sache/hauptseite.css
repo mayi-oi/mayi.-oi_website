@@ -1,0 +1,25 @@
+nav {
+    text-align: center;
+    font-family: "Google Sans", sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.632);
+    border-radius: 8px;
+    padding: 8px 18px;
+    text-decoration-color: white;
+}
+
+h1 {
+    font-family: "Google Sans", sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    text-decoration: underline;
+    font-family: "Google Sans", sans-serif;
+    padding: 10px;
+    font-size: 14px;
+}

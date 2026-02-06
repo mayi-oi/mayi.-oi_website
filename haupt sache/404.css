@@ -1,0 +1,48 @@
+body {
+    background-color: #353535;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 800,
+        'wght' 450,
+        'GRAD' 0,
+        'opsz' 50,
+}
+
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-family: Google sans, sans-serif;
+    font-size: 37px;
+    color: #ffffff;
+    text-align: center;
+}
+
+h3 {
+    font-family: Google sans, sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+}
+
+h4 {
+    font-family: Google sans, sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+}
+
+p {
+    font-family: Google sans, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+}

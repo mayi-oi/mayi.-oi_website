@@ -1,0 +1,9 @@
+button {
+    font-family: "Google Sans", sans-serif;
+    transition-duration: 0.3s;
+}
+
+.button:hover {
+    background-color: #7fb3e7;
+    color: #ffffff;
+}
