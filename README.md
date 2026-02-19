@@ -1,7 +1,7 @@
-# mint-cream (mayi.-oi website) projekt
+## mint-cream (mayi.-oi website) projekt
 Hi there und wilkommen zum meine (nicht) echte Zeit website!
 <br> auf diese Projekt du als Zuschauer schauen auf disese repo erwachsen werden bis zur völlig erfolgtreich!
-<br> und schauen mir wie activ auf diese Projekt!
+<br> und schauen wir diese Projekt geht!
 <br>
 <br> und sind open source!
 <br> Hol dir ein git clone und Einfügen auf deine Konsole! 
