@@ -11,6 +11,6 @@ Hi there und wilkommen zum meine (nicht) echte Zeit website!
 - [ ] Einfügen paar Erster egg
 - [ ] Mache die website mehr spaß und simple (ich glaube...)
 - [ ] kleine auflösung display freundlich
-- [ ] veröfftenlich auf github.io
+- [ ] veröfftenlich auf vercel.app
 
 <p align="center"><br> von mayi.-oi 2026 </p>
