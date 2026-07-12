@@ -1,3 +1,9 @@
+## Leider nicht... :(
+So diese alt Projekt sind nicht mehr gearbeitet fast mehrere Monate
+<br> aber es geht weiter!
+<br> [klicke mir](https://github.com/mayi-oi/Pfandkuchen)
+zur coole und moderne Projekt zusehen! ⁦(⁠≧⁠▽⁠≦⁠)⁩
+
 ## mint-cream (mayi.-oi website) projekt
 Hi there und wilkommen zum meine (nicht) echte Zeit website!
 <br> auf diese Projekt du als Zuschauer schauen auf disese repo erwachsen werden bis zur völlig erfolgtreich!
